@@ -1,2 +1,13 @@
 
 *.iml
+
+*.idea
+
+.idea/.name
+
+.idea/*
+*.bin
+
+*.lock
+
+*.properties

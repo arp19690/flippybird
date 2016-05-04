@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_98090b2ec1ef71d7ec46807b633eb8a2b61d5240/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_7d3de49ad0c34a9a571b8fdeb5a1211426f0f27c/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_0de62cd56dceab3e7629b375903822b2135547c2/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_d41fcebce00d986f109b5efeb2420668fbcb77a2/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_c722035cb7c4220cecc205c39fc70f6b2926d53a/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_757172143642af51266ecdcf28da22f017e1e48d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arpit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_90c188174ee22afd1808b3b50b7eee472be20547/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="764dbde21042a1a32ce96df1e116e704336134f5">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2101b3eba319b9787a107d79cc054e1975c88122/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="33798dea1662eba7fe23a041e50e9e95f2b0ee8a">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ed322439b8b083bf331cccaf6cf5e990225d62f/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/flippybird/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_72a705d09a7b2401c8f99b95d5ea005d18487b61/classes.dex" />
+    </item>
+
+</items>
