@@ -6,6 +6,8 @@ import android.os.Handler;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Toast;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends Activity {
 
@@ -15,6 +17,11 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Loading the banner ad here
+        AdView mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
 
         mWebView = (WebView) findViewById(R.id.activity_main_webview);
         mWebView.loadUrl("file:///android_asset/www/index.html");
